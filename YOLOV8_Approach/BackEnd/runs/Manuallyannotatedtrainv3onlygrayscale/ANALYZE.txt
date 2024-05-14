@@ -1,0 +1,18 @@
+Here's a breakdown of the different metrics and what they represent:
+
+Loss Functions:
+
+*box_loss: This metric measures how well the predicted bounding boxes around the objects align with the ground truth bounding boxes. A lower box loss indicates better bounding box predictions by the model.
+*cls_loss: This metric refers to the classification loss. It measures how well the model can classify the objects it detects. A lower classification loss indicates that the model can accurately distinguish between different object classes.
+*dfl_loss: This metric refers to the deformation loss. It measures how well the model predicts the size and shape of the objects it detects. A lower deformation loss indicates that the model can accurately predict the size and shape of the bounding boxes.
+
+Metrics:
+
+*precision(B): This metric represents the precision for a specific bounding box confidence threshold (B). Precision is a measure of how many of the predicted positive detections are actually true positives. In simpler terms, it refers to the ratio of correctly identified objects out of the total objects the model identified. A higher precision value indicates that the model is making fewer false positive detections.
+*recall(B): This metric represents the recall for a specific bounding box confidence threshold (B). Recall is a measure of how many of the actual positive cases are identified by the model. In simpler terms, it refers to the ratio of correctly identified objects out of the total actual objects present in the image. A higher recall value indicates that the model is missing fewer actual objects.
+*mean Average Precision (mAP): This metric is the average precision (AP) across all classes in the dataset at a specific Intersection over Union (IoU) threshold. The IoU is a measure of how well the predicted bounding box overlaps with the ground truth bounding box. It is calculated as the area of intersection between the two boxes divided by the area of their union.
+
+Key Points:
+
+The training loss curves (left side of the table) generally show a downward trend, indicating that the model is learning and the losses are decreasing over time.
+The validation loss curves (right side of the table) seem to fluctuate but also show a general downward trend. This suggests that the model is improving its ability to generalize to unseen data.

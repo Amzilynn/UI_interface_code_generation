@@ -1,0 +1,12 @@
+YOLOV8_Approach/Frontend/*
+YOLOV8_Approach/Backend/data/*
+YOLOV8_Approach/Backend/notes/*
+/journal/
+YOLOV8_Approach/Backend/venvyolov8/*
+Ollama/VenvOllama/*
+*.pt
+*.pyc
+journal.txt
+*.h5
+YOLOV8_Approach/BackEnd/venvyolov8
+

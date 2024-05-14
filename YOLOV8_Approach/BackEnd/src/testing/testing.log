@@ -1,0 +1,7 @@
+ERROR:root:Testing failed: 'YOLO' object has no attribute 'evaluate'
+ERROR:root:Testing failed: 'DetectionModel' object has no attribute 'evaluate'
+ERROR:root:Testing failed: 'DetectionModel' object has no attribute 'load_dataset'
+ERROR:root:Testing failed: 'YOLO' object has no attribute 'load_data'
+ERROR:root:Testing failed: __init__() got an unexpected keyword argument 'data'
+ERROR:root:Testing failed: 'YOLO' object has no attribute 'load_data'
+ERROR:root:Testing failed: 'YOLO' object has no attribute 'load_data'

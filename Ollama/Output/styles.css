@@ -1,0 +1,28 @@
+.button {
+  display: flex;
+  align-items: center;
+}
+
+.uncheck-btn label {
+  font-size: 1em; /* Adjust as needed */
+  padding-right: 0.5em;
+}
+
+.checkbox-container input[type="checkbox"] {
+  margin-right: 0.5em;
+}
+
+.check-btn {
+  background-color: #FFC107; /* Light green */
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+  margin-top: 20px; /* Adjust as needed */
+  cursor: pointer;
+}
+
+.check-btn:hover {
+  background-color: #FF9F5D; /* Darker green when hovered */}

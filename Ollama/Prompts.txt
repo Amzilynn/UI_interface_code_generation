@@ -1,0 +1,48 @@
+First prompt format :
+
+Generate High-Quality CSS/HTML Code for UI Elements in a Website Screenshot.
+
+    Your task is to generate clean and well-structured CSS/HTML code for the UI elements captured in the provided screenshot of a website. Pay attention to detail and aim for code that is semantic, responsive, and follows best practices.
+
+    **Screenshot:** 
+
+    Please identify and describe each UI element in the screenshot, including buttons, input fields, menus, navigation bars, and any other relevant components. For each element, generate CSS styling and HTML markup that accurately represents its appearance and behavior on the website.
+
+    Additionally, if any UI elements require images for styling (e.g., icons, backgrounds), please fetch suitable images from the web and incorporate them into the generated CSS/HTML code. Ensure proper attribution for any images used.
+
+    Ensure the following in the generated code:
+    - Semantic HTML structure with appropriate tags for each element.
+    - Use of CSS classes and IDs for styling, with clear and meaningful names.
+    - CSS rules organized logically and efficiently.
+    - Responsive design considerations, including media queries for different screen sizes.
+    - Accessibility features such as alt attributes for images and aria roles where applicable.
+    - Comments where necessary to explain complex or unusual code.
+
+    Your goal is to produce code that is not only functional but also maintainable and easy to understand for future developers working on the website. Take pride in crafting code that adheres to industry standards and contributes to a positive user experience.
+
+    Thank you for your attention to detail and dedication to quality craftsmanship.''
+
+
+
+Second prompt format :
+Generate a Detailed Description of UI Elements and Their Styles from a Website Screenshot.
+
+Your task is to provide an in-depth textual description of each UI element identified in the provided screenshot of a website, along with their corresponding styles. This description should cover all visible attributes and behaviors of each element, without generating any code.
+
+
+
+For every UI element detected:
+
+Description: Provide a detailed description of the element's appearance, including its size, shape, color scheme, borders, backgrounds, fonts, and any other visible attributes.
+Behavior: Specify how the element behaves, such as its response to user interactions like hovering or clicking, any transitions or animations, and any dynamic changes in appearance.
+Styling: Explain the styling applied to the element, including CSS properties used for styling, such as selectors, declarations, and any relevant media queries for responsiveness.
+Special States: Note any special states the element may have, such as active, disabled, or error states, and describe how they differ from the default appearance.
+Accessibility: Mention any accessibility features implemented, such as alt attributes for images or ARIA roles for improved accessibility.
+Images: If any images are incorporated within the element for styling purposes, provide details on their appearance and source, without generating code.
+Your descriptions should be comprehensive and meticulous, providing enough detail for a developer to understand and replicate the styles accurately. Aim for clarity and precision in your descriptions, aiding future developers in maintaining the UI design effectively.
+
+Thank you for your attention to detail and dedication to providing thorough descriptions that enhance the understanding of UI elements and their styles.
+
+
+
+

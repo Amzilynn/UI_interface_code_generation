@@ -1,0 +1,442 @@
+Element_id : element_1 Class :Button Top-Left (x1, y1) :66.55242919921875 , 518.5728149414062 bottom-right (x2, y2) :190.73550415039062 ,551.9275512695312
+Details
+Object type: tensor([0.], device='cuda:0')
+Coordinates: tensor([[ 66.5524, 518.5728, 190.7355, 551.9276]], device='cuda:0')
+Probability: tensor([0.8480], device='cuda:0')
+CSS Styles:
+
+    .element_element_1 {
+        position: absolute;
+        top: 518.5728149414062px;
+        left: 66.55242919921875px;
+        width: 124.18307495117188px;
+        height: 33.354736328125px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_2 Class :Input-Field Top-Left (x1, y1) :67.46845245361328 , 233.41656494140625 bottom-right (x2, y2) :302.72137451171875 ,269.66326904296875
+Details
+Object type: tensor([3.], device='cuda:0')
+Coordinates: tensor([[ 67.4685, 233.4166, 302.7214, 269.6633]], device='cuda:0')
+Probability: tensor([0.8168], device='cuda:0')
+CSS Styles:
+
+    .element_element_2 {D
+        position: absolute;
+        top: 233.41656494140625px;
+        left: 67.46845245361328px;
+        width: 235.2529296875px;
+        height: 36.2467041015625px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_3 Class :Input-Field Top-Left (x1, y1) :331.6552734375 , 233.51116943359375 bottom-right (x2, y2) :567.5396118164062 ,269.6084899902344
+Details
+Object type: tensor([3.], device='cuda:0')
+Coordinates: tensor([[331.6553, 233.5112, 567.5396, 269.6085]], device='cuda:0')
+Probability: tensor([0.7969], device='cuda:0')
+CSS Styles:
+
+    .element_element_3 {
+        position: absolute;
+        top: 233.51116943359375px;
+        left: 331.6552734375px;
+        width: 235.88433837890625px;
+        height: 36.097320556640625px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_4 Class :Input-Field Top-Left (x1, y1) :67.77685546875 , 164.5274200439453 bottom-right (x2, y2) :302.3648986816406 ,199.9268035888672
+Details
+Object type: tensor([3.], device='cuda:0')
+Coordinates: tensor([[ 67.7769, 164.5274, 302.3649, 199.9268]], device='cuda:0')
+Probability: tensor([0.7799], device='cuda:0')
+CSS Styles:
+
+    .element_element_4 {
+        position: absolute;
+        top: 164.5274200439453px;
+        left: 67.77685546875px;
+        width: 234.58804321289062px;
+        height: 35.399383544921875px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_5 Class :Input-Field Top-Left (x1, y1) :330.91864013671875 , 164.26217651367188 bottom-right (x2, y2) :567.6012573242188 ,199.95590209960938
+Details
+Object type: tensor([3.], device='cuda:0')
+Coordinates: tensor([[330.9186, 164.2622, 567.6013, 199.9559]], device='cuda:0')
+Probability: tensor([0.7728], device='cuda:0')
+CSS Styles:
+
+    .element_element_5 {
+        position: absolute;
+        top: 164.26217651367188px;
+        left: 330.91864013671875px;
+        width: 236.6826171875px;
+        height: 35.6937255859375px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_6 Class :Input-Field Top-Left (x1, y1) :329.31689453125 , 376.95086669921875 bottom-right (x2, y2) :567.640380859375 ,413.24591064453125
+Details
+Object type: tensor([3.], device='cuda:0')
+Coordinates: tensor([[329.3169, 376.9509, 567.6404, 413.2459]], device='cuda:0')
+Probability: tensor([0.7312], device='cuda:0')
+CSS Styles:
+
+    .element_element_6 {
+        position: absolute;
+        top: 376.95086669921875px;
+        left: 329.31689453125px;
+        width: 238.323486328125px;
+        height: 36.2950439453125px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_7 Class :Text Top-Left (x1, y1) :57.64805603027344 , 84.05435180664062 bottom-right (x2, y2) :565.6343994140625 ,123.23828125
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 57.6481,  84.0544, 565.6344, 123.2383]], device='cuda:0')
+Probability: tensor([0.6734], device='cuda:0')
+CSS Styles:
+
+    .element_element_7 {
+        position: absolute;
+        top: 84.05435180664062px;
+        left: 57.64805603027344px;
+        width: 507.986328125px;
+        height: 39.183929443359375px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_8 Class :Input-Field Top-Left (x1, y1) :333.19329833984375 , 304.364501953125 bottom-right (x2, y2) :567.4166870117188 ,340.4864501953125
+Details
+Object type: tensor([3.], device='cuda:0')
+Coordinates: tensor([[333.1933, 304.3645, 567.4167, 340.4865]], device='cuda:0')
+Probability: tensor([0.6731], device='cuda:0')
+CSS Styles:
+
+    .element_element_8 {
+        position: absolute;
+        top: 304.364501953125px;
+        left: 333.19329833984375px;
+        width: 234.223388671875px;
+        height: 36.1219482421875px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_9 Class :Input-Field Top-Left (x1, y1) :65.63385009765625 , 301.43896484375 bottom-right (x2, y2) :302.14605712890625 ,339.16650390625
+Details
+Object type: tensor([3.], device='cuda:0')
+Coordinates: tensor([[ 65.6339, 301.4390, 302.1461, 339.1665]], device='cuda:0')
+Probability: tensor([0.6557], device='cuda:0')
+CSS Styles:
+
+    .element_element_9 {
+        position: absolute;
+        top: 301.43896484375px;
+        left: 65.63385009765625px;
+        width: 236.51220703125px;
+        height: 37.7275390625px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_10 Class :Text Top-Left (x1, y1) :64.12203979492188 , 280.755126953125 bottom-right (x2, y2) :132.28250122070312 ,299.3690185546875
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 64.1220, 280.7551, 132.2825, 299.3690]], device='cuda:0')
+Probability: tensor([0.6177], device='cuda:0')
+CSS Styles:
+
+    .element_element_10 {
+        position: absolute;
+        top: 280.755126953125px;
+        left: 64.12203979492188px;
+        width: 68.16046142578125px;
+        height: 18.6138916015625px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_11 Class :Text Top-Left (x1, y1) :327.8559875488281 , 211.17799377441406 bottom-right (x2, y2) :412.6402893066406 ,230.41661071777344
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[327.8560, 211.1780, 412.6403, 230.4166]], device='cuda:0')
+Probability: tensor([0.5297], device='cuda:0')
+CSS Styles:
+
+    .element_element_11 {
+        position: absolute;
+        top: 211.17799377441406px;
+        left: 327.8559875488281px;
+        width: 84.7843017578125px;
+        height: 19.238616943359375px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_12 Class :Text Top-Left (x1, y1) :327.19110107421875 , 350.92694091796875 bottom-right (x2, y2) :387.29315185546875 ,368.58001708984375
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[327.1911, 350.9269, 387.2932, 368.5800]], device='cuda:0')
+Probability: tensor([0.5148], device='cuda:0')
+CSS Styles:
+
+    .element_element_12 {
+        position: absolute;
+        top: 350.92694091796875px;
+        left: 327.19110107421875px;
+        width: 60.10205078125px;
+        height: 17.653076171875px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_13 Class :Text Top-Left (x1, y1) :62.88577651977539 , 211.1946563720703 bottom-right (x2, y2) :105.54861450195312 ,229.2274932861328
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 62.8858, 211.1947, 105.5486, 229.2275]], device='cuda:0')
+Probability: tensor([0.4941], device='cuda:0')
+CSS Styles:
+
+    .element_element_13 {
+        position: absolute;
+        top: 211.1946563720703px;
+        left: 62.88577651977539px;
+        width: 42.662837982177734px;
+        height: 18.0328369140625px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_14 Class :Text Top-Left (x1, y1) :61.35296630859375 , 141.70718383789062 bottom-right (x2, y2) :137.50489807128906 ,161.01040649414062
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 61.3530, 141.7072, 137.5049, 161.0104]], device='cuda:0')
+Probability: tensor([0.4657], device='cuda:0')
+CSS Styles:
+
+    .element_element_14 {
+        position: absolute;
+        top: 141.70718383789062px;
+        left: 61.35296630859375px;
+        width: 76.15193176269531px;
+        height: 19.30322265625px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_15 Class :Text Top-Left (x1, y1) :196.65036010742188 , 513.633544921875 bottom-right (x2, y2) :415.7536926269531 ,555.10107421875
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[196.6504, 513.6335, 415.7537, 555.1011]], device='cuda:0')
+Probability: tensor([0.4558], device='cuda:0')
+CSS Styles:
+
+    .element_element_15 {
+        position: absolute;
+        top: 513.633544921875px;
+        left: 196.65036010742188px;
+        width: 219.10333251953125px;
+        height: 41.467529296875px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_16 Class :Text Top-Left (x1, y1) :62.43749237060547 , 349.802734375 bottom-right (x2, y2) :228.20770263671875 ,370.0953369140625
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 62.4375, 349.8027, 228.2077, 370.0953]], device='cuda:0')
+Probability: tensor([0.4415], device='cuda:0')
+CSS Styles:
+
+    .element_element_16 {
+        position: absolute;
+        top: 349.802734375px;
+        left: 62.43749237060547px;
+        width: 165.77020263671875px;
+        height: 20.2926025390625px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_17 Class :Text Top-Left (x1, y1) :60.4126091003418 , 414.8074951171875 bottom-right (x2, y2) :115.03343200683594 ,433.8150634765625
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 60.4126, 414.8075, 115.0334, 433.8151]], device='cuda:0')
+Probability: tensor([0.4373], device='cuda:0')
+CSS Styles:
+
+    .element_element_17 {
+        position: absolute;
+        top: 414.8074951171875px;
+        left: 60.4126091003418px;
+        width: 54.62082290649414px;
+        height: 19.007568359375px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_18 Class :Text Top-Left (x1, y1) :324.5409240722656 , 141.76998901367188 bottom-right (x2, y2) :398.8504943847656 ,161.20281982421875
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[324.5409, 141.7700, 398.8505, 161.2028]], device='cuda:0')
+Probability: tensor([0.4156], device='cuda:0')
+CSS Styles:
+
+    .element_element_18 {
+        position: absolute;
+        top: 141.76998901367188px;
+        left: 324.5409240722656px;
+        width: 74.3095703125px;
+        height: 19.432830810546875px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_19 Class :Button Top-Left (x1, y1) :547.1719970703125 , 41.75859069824219 bottom-right (x2, y2) :600.975830078125 ,68.78231811523438
+Details
+Object type: tensor([0.], device='cuda:0')
+Coordinates: tensor([[547.1720,  41.7586, 600.9758,  68.7823]], device='cuda:0')
+Probability: tensor([0.4129], device='cuda:0')
+CSS Styles:
+
+    .element_element_19 {
+        position: absolute;
+        top: 41.75859069824219px;
+        left: 547.1719970703125px;
+        width: 53.8038330078125px;
+        height: 27.023727416992188px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_20 Class :Button Top-Left (x1, y1) :153.63751220703125 , 378.57000732421875 bottom-right (x2, y2) :218.8341064453125 ,402.93145751953125
+Details
+Object type: tensor([0.], device='cuda:0')
+Coordinates: tensor([[153.6375, 378.5700, 218.8341, 402.9315]], device='cuda:0')
+Probability: tensor([0.4085], device='cuda:0')
+CSS Styles:
+
+    .element_element_20 {
+        position: absolute;
+        top: 378.57000732421875px;
+        left: 153.63751220703125px;
+        width: 65.19659423828125px;
+        height: 24.3614501953125px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_21 Class :Text Top-Left (x1, y1) :328.368408203125 , 280.6556701660156 bottom-right (x2, y2) :447.057861328125 ,300.4084777832031
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[328.3684, 280.6557, 447.0579, 300.4085]], device='cuda:0')
+Probability: tensor([0.3611], device='cuda:0')
+CSS Styles:
+
+    .element_element_21 {
+        position: absolute;
+        top: 280.6556701660156px;
+        left: 328.368408203125px;
+        width: 118.689453125px;
+        height: 19.7528076171875px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_22 Class :Text Top-Left (x1, y1) :72.3046875 , 486.07562255859375 bottom-right (x2, y2) :263.03094482421875 ,509.3441162109375
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 72.3047, 486.0756, 263.0309, 509.3441]], device='cuda:0')
+Probability: tensor([0.3598], device='cuda:0')
+CSS Styles:
+
+    .element_element_22 {
+        position: absolute;
+        top: 486.07562255859375px;
+        left: 72.3046875px;
+        width: 190.72625732421875px;
+        height: 23.26849365234375px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_23 Class :Button Top-Left (x1, y1) :226.26480102539062 , 378.43798828125 bottom-right (x2, y2) :300.9281311035156 ,402.959228515625
+Details
+Object type: tensor([0.], device='cuda:0')
+Coordinates: tensor([[226.2648, 378.4380, 300.9281, 402.9592]], device='cuda:0')
+Probability: tensor([0.3199], device='cuda:0')
+CSS Styles:
+
+    .element_element_23 {
+        position: absolute;
+        top: 378.43798828125px;
+        left: 226.26480102539062px;
+        width: 74.663330078125px;
+        height: 24.521240234375px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_24 Class :Text Top-Left (x1, y1) :90.83219909667969 , 449.5009765625 bottom-right (x2, y2) :141.3620147705078 ,471.196044921875
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[ 90.8322, 449.5010, 141.3620, 471.1960]], device='cuda:0')
+Probability: tensor([0.3030], device='cuda:0')
+CSS Styles:
+
+    .element_element_24 {
+        position: absolute;
+        top: 449.5009765625px;
+        left: 90.83219909667969px;
+        width: 50.529815673828125px;
+        height: 21.695068359375px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_25 Class :Text Top-Left (x1, y1) :203.23780822753906 , 577.0028686523438 bottom-right (x2, y2) :436.2359619140625 ,606.0216674804688
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[203.2378, 577.0029, 436.2360, 606.0217]], device='cuda:0')
+Probability: tensor([0.2925], device='cuda:0')
+CSS Styles:
+
+    .element_element_25 {
+        position: absolute;
+        top: 577.0028686523438px;
+        left: 203.23780822753906px;
+        width: 232.99815368652344px;
+        height: 29.018798828125px;
+        border: 1px solid red;
+    }
+    
+
+Element_id : element_26 Class :Text Top-Left (x1, y1) :324.5897216796875 , 429.08087158203125 bottom-right (x2, y2) :444.51202392578125 ,455.62689208984375
+Details
+Object type: tensor([7.], device='cuda:0')
+Coordinates: tensor([[324.5897, 429.0809, 444.5120, 455.6269]], device='cuda:0')
+Probability: tensor([0.2826], device='cuda:0')
+CSS Styles:
+
+    .element_element_26 {
+        position: absolute;
+        top: 429.08087158203125px;
+        left: 324.5897216796875px;
+        width: 119.92230224609375px;
+        height: 26.5460205078125px;
+        border: 1px solid red;
+    }
+    
+

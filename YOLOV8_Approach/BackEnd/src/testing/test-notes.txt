@@ -1,0 +1,36 @@
+This review is done on a test image that i manually created .This is an overview of the results : 
+Detection Results:
+
+The YOLO model processed an image and detected various UI elements, such as buttons, icon-buttons, images, inputs, labels, and text.
+For each detected element, the model provided information, including class (e.g., button, checkbox), confidence scores, and bounding box coordinates.
+Bounding Box Coordinates:
+
+Bounding box coordinates are provided in various formats:
+xywh: Represents the coordinates as (x, y, width, height).
+xywhn: Normalized version of xywh where values are normalized between 0 and 1.
+xyxy: Represents the coordinates as (x_min, y_min, x_max, y_max).
+xyxyn: Normalized version of xyxy where values are normalized between 0 and 1.
+These coordinate representations help define the rectangular regions around detected UI elements.
+Image Information:
+
+orig_img: A NumPy array representing the original image with RGB color channels.
+Each element in the array corresponds to the color intensity of a pixel at a specific location.
+Example: orig_img: array([[[129, 126, 128], [146, 143, 145], ... [10, 38, 62]]], dtype=uint8)
+orig_shape: Indicates the dimensions of the original image before any resizing or processing (e.g., height: 734 pixels, width: 1323 pixels).
+Example: orig_shape: (734, 1323)
+Speed Information:
+
+The detection process speed is broken down into three components: preprocess, inference, and postprocess.
+Example: Speed: 4.0ms preprocess, 97.1ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Results Object:
+
+The results object includes information about detected UI elements, their types, and other relevant details.
+Example: ultralytics.engine.results.Results object with attributes: boxes, keypoints, masks, names, obb, orig_img, orig_shape, probs, save_dir, speed
+
+
+NOTES : 
+
+
+//The frame detection is not perfect but it's acceptable still going to work on that 
+//The classes detection is somewhat good enough (sometimes there's elements that are not framed but their classes are detected)
+//The detection of the positions does not seem accurate (xyxy format)
